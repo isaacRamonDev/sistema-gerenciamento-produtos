@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Produtos
 
-Este é um sistema completo de gerenciamento de produtos desenvolvido com **Spring Boot** no backend e **Angular** no frontend, implementando operações CRUD com paginação, filtros e validações.
+Este é um sistema de CRUD de produtos desenvolvido com **Spring Boot** no backend e **Angular** no frontend, implementando operações CRUD com paginação, filtros e validações.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -174,13 +174,6 @@ Content-Type: application/json
 - Mensagens de erro amigáveis ao usuário
 - Estados de loading durante requisições
 - Fallbacks para situações de erro
-
-## 🧪 Dados de Teste
-
-O sistema vem com 10 produtos pré-cadastrados para facilitar os testes:
-- Smartphones, notebooks, periféricos de computador
-- Diferentes faixas de preço e quantidades
-- Descrições realistas para demonstrar a funcionalidade
 
 ## 🔧 Configurações Adicionais
 
