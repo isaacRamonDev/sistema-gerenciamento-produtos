@@ -348,16 +348,6 @@ spring:
   datasource:
     url: jdbc:oracle:thin:@localhost:1521:XE?useUnicode=true&characterEncoding=UTF-8
 ```
-
-## Suporte
-
-Para dúvidas técnicas ou problemas:
-1. Verifique os logs da aplicação
-2. Consulte a documentação do Spring Boot
-3. Verifique as configurações do banco de dados
-4. meu watss (88)999207133
-5. email:isaacramonc@gmail.com
-
 ### Frontend
 - # Sistema de Gerenciamento de Tarefas
 
@@ -581,3 +571,13 @@ export const environment = {
 - **Prettier** para formatação
 - **Conventional Commits** para mensagens
 - **Husky** para git hooks
+
+- 
+## Suporte
+
+Para dúvidas técnicas ou problemas:
+1. Verifique os logs da aplicação
+2. Consulte a documentação do Spring Boot
+3. Verifique as configurações do banco de dados
+4. meu watss (88)999207133
+5. email:isaacramonc@gmail.com
